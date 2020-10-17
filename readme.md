@@ -1,1 +1,1 @@
-## symple test with selenium javascript
+## simple test with selenium javascript
